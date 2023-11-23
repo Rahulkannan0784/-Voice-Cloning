@@ -28,3 +28,21 @@ Before running the application, ensure you have the following Python packages in
 - **Supports Both Audio and Video:** The application is versatile and supports both audio and video file formats.
 
 
+## Notes
+
+- The application assumes the input file is either audio or video. Adjust the `media_type` variable in the code accordingly.
+
+- Google Translate API may have usage limitations. Ensure that you are aware of and compliant with any API usage policies.
+
+- If you encounter issues with the installation of required Python packages, consider using a virtual environment to manage dependencies.
+
+- Make sure the selected target language is supported by the Google Translate service.
+
+- For video files, the application extracts audio and translates it. Ensure that your video files have clear and understandable audio content for accurate translation.
+
+- The application may produce better results with high-quality audio recordings.
+
+- Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
