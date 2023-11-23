@@ -2,6 +2,10 @@
 
 This is a simple Python application that translates and plays audio or video files into different languages using Google Translate and text-to-speech (TTS) synthesis.
 
+## Sample Output
+
+![Output Screenshot](output.png)
+
 ## Prerequisites
 
 Before running the application, ensure you have the following Python packages installed:
@@ -23,6 +27,4 @@ Before running the application, ensure you have the following Python packages in
 
 - **Supports Both Audio and Video:** The application is versatile and supports both audio and video file formats.
 
-## Output
 
-![Output Screenshot](path/to/your/screenshot.png)
