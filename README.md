@@ -1,2 +1,21 @@
 # Voice-Cloning
-A Python application for translating and playing audio or video files into different languages using Google Translate and text-to-speech synthesis. The user-friendly GUI allows you to select files, choose target languages, and experience multilingual audio/video playback. Ideal for language enthusiasts and content localization.
+
+
+This is a simple Python application that translates and plays audio or video files into different languages using Google Translate and text-to-speech (TTS) synthesis.
+
+## Prerequisites
+
+Before running the application, ensure you have the following Python packages installed:
+
+- deep_translator
+- gtts
+- playsound
+- moviepy
+- speech_recognition
+- pydub
+
+You can install them using the following command:
+
+```bash
+pip install deep_translator gtts playsound moviepy SpeechRecognition pydub
+
