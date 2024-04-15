@@ -44,5 +44,5 @@ Before running the application, ensure you have the following Python packages in
 
 - Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests.
 
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
